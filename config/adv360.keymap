@@ -82,7 +82,7 @@
             bindings = <
  &kp ESCAPE         &kp TILDE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4            &kp NUMBER_5                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
      &trans             &none         &kp Q         &kp W         &kp E         &kp R                   &kp T                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
-     &trans           &kp TAB         &kp A         &kp S         &kp D         &kp F                   &kp G  &trans        &trans                  &trans  &trans  &tog 0  &trans  &trans  &trans  &trans  &trans  &trans
+     &trans           &kp TAB         &kp A         &kp S         &kp D         &kp F                   &kp G  &trans        &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
      &trans    &kp LEFT_SHIFT         &kp Z         &kp X         &kp C         &kp V                                     &kp LCTRL                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
      &trans  &kp LEFT_CONTROL         &kp B        &trans        &trans                                &trans  &trans  &kp LEFT_ALT                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
